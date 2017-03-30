@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.progressive-image {
+  position: relative;
+}
+
+.progressive-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
